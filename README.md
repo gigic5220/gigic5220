@@ -1,5 +1,7 @@
-### My Place
+#### My Place
 ---------------------------------------
+### INFO
+*name: 나상엽
 <!--
 **gigic5220/gigic5220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
