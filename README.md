@@ -7,13 +7,7 @@
 * gigic5220@gmail.com
 ---------------------------------------
 #### SKILLS
-* HTML, CSS, JAVASCRIPT, JQUERY, JSP
-* TYPESCRIPT, VUE, ANGULAR 
+* JSP, JAVASCRIPT, VUE, ANGULAR, TYPESCRIPT
 * JAVA, SPRING BOOT
 * JPA, MYBATIS, ORACLE, MYSQL
-* AWS, JENKINS
-* GIT, GITHUB
-* JIRA
 ---------------------------------------
-#### PORTFOLIO
-<http://naver.com/>
