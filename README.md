@@ -7,7 +7,7 @@
 * gigic5220@gmail.com
 ---------------------------------------
 #### SKILLS
-* JSP, JAVASCRIPT, VUE, ANGULAR, TYPESCRIPT
+* JSP, JAVASCRIPT, VUE, ANGULAR, REACT, TYPESCRIPT
 * JAVA, SPRING BOOT
 * JPA, MYBATIS, ORACLE, MYSQL
 ---------------------------------------
