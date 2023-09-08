@@ -9,5 +9,4 @@
 #### SKILLS
 * JSP, JAVASCRIPT, VUE, ANGULAR, REACT, TYPESCRIPT
 * JAVA, SPRING BOOT
-* JPA, MYBATIS, ORACLE, MYSQL
 ---------------------------------------
