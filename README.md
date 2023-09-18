@@ -1,12 +1,11 @@
 ### My Place
 ---------------------------------------
 #### INFO
-* Sang Yeop Na
+* 나상엽
 * 91.12.05
-* WebDeveloper
+* 프론트엔드 개발자 (2020.3 ~ )
 * gigic5220@gmail.com
 ---------------------------------------
 #### SKILLS
-* JSP, JAVASCRIPT, VUE, ANGULAR, REACT, TYPESCRIPT
-* JAVA, SPRING BOOT
+* JAVASCRIPT, TYPESCRIPT, VUE, REACT(NEXT.JS)
 ---------------------------------------
