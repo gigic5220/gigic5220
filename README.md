@@ -7,5 +7,7 @@
 * gigic5220@gmail.com
 ---------------------------------------
 #### SKILLS
-* JAVASCRIPT, TYPESCRIPT, VUE, REACT(NEXT.JS)
+* JAVASCRIPT, TYPESCRIPT, DART
+* REACT, VUE, FLUTTER
+* NEXT.JS, NUXT.JS
 ---------------------------------------
